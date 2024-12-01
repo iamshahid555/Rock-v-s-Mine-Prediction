@@ -15,7 +15,7 @@ many consumer and product based industries, by
 showing the advancements in the predictive
 analytics. This prediction can be done using machine learning algorithm such as logistic regression which is implemented in google colab.
 
-[![Open in Colab](https://colab.research.google.com/github/iamshahid555/Rock-v-s-Mine-Prediction/blob/main/SONAR_Rock_vs_Mine_Prediction.ipynb)
+[![Open in Colab]([https://colab.research.google.com/github/iamshahid555/Rock-v-s-Mine-Prediction/blob/main/SONAR_Rock_vs_Mine_Prediction.ipynb](https://colab.research.google.com/drive/1-GbMpXV-BIX-43uXRiggwF4OxZ6z097h?usp=drive_link))
 
 
 ## DataSet
