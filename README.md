@@ -15,7 +15,7 @@ many consumer and product based industries, by
 showing the advancements in the predictive
 analytics. This prediction can be done using machine learning algorithm such as logistic regression which is implemented in google colab.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1_ghrph56kN36hFO45zsHmTROmO7QZVYq?usp=sharing](https://colab.research.google.com/drive/1-GbMpXV-BIX-43uXRiggwF4OxZ6z097h))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-GbMpXV-BIX-43uXRiggwF4OxZ6z097h)
 
 
 ## DataSet
